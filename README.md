@@ -72,7 +72,7 @@ Este cronograma macro apresenta as fases e durações estimadas para a execuçã
 | **2. Configuração e Backend** | - Criação da conta AWS.<br>- Desenvolvimento das funções Lambda.<br>- Configuração do API Gateway e do DynamoDB. | 4 Semanas           |
 | **3. Desenvolvimento Frontend** | - Criação da interface do site ou aplicativo móvel que consumirá as APIs.                                          | 4 Semanas (paralelo)|
 | **4. Testes e Validação** | - Testes unitários e de integração.<br>- Testes de segurança e de carga.<br>- Homologação com a área de negócio.     | 2 Semana            |
-| **5. Tranferência do sistema e campacitação** | - Implantação final (Go-Live) da plataforma.<br>- Monitoramento inicial da aplicação e dos custos.                  | 4 Semanas            |
+| **5. Tranferência do sistema e campacitação** | - Implementação do sistema - tranferência gradual dos serviços para o novo sistema.                  | 4 Semanas            |
 | **6. Lançamento e Operação** | - Implantação final (Go-Live) da plataforma.<br>- Monitoramento inicial da aplicação e dos custos.                  | Contínuo            |
 
 <br>
