@@ -43,8 +43,8 @@ A implementação destes três serviços na empresa **PharmaCloud Soluções tem
 O diagrama abaixo ilustra o fluxo de uma requisição do usuário através dos serviços da AWS propostos, desde a chamada da API até a interação com o banco de dados.
 
 ---
-**<img width="769" height="269" alt="diagramaDIO drawio" src="https://github.com/user-attachments/assets/190fea50-4153-4be3-93ea-df8445329db7" />
-**
+<img width="769" height="269" alt="diagramaDIO drawio" src="https://github.com/user-attachments/assets/190fea50-4153-4be3-93ea-df8445329db7" />
+
 
 ---
 
@@ -58,7 +58,7 @@ A tabela a seguir detalha a estimativa de custo mensal baseada em uma projeção
 | Amazon API Gateway   | 1.000.000 requisições (HTTP API)            | ~$1.59                              |
 | AWS Lambda           | 1.000.000 requisições (256MB/200ms/arm64) | ~$0.87                              |
 | Amazon DynamoDB      | 0.5M WCU, 1.5M RCU, 10GB (On-Demand)      | ~$4.36                              |
-| **CUSTO MENSAL ESTIMADO** |                                             | **~ $6.82** |
+| **CUSTO MENSAL ESTIMADO** |                                             | ~ $6.82 |
 
 
 ---
