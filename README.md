@@ -35,7 +35,7 @@ O projeto de implementação foi dividido em 3 etapas, focando nos serviços que
     * O DynamoDB será o repositório de dados principal da plataforma. Ele armazenará informações críticas de forma rápida e escalável, como: o catálogo completo de medicamentos e produtos (com preço, estoque, descrição), perfis de clientes (histórico de compras, endereços), sessões de usuário e os itens no carrinho de compras. Por ser gerenciado e operar no modo `On-Demand` (Sob Demanda), não há custos com licenças, manutenção de servidores ou capacidade ociosa, alinhando-se perfeitamente ao objetivo de custo-benefício.
 
 ## Conclusão
-A implementação destes três serviços na empresa **PharmaCloud Soluções tem como esperado uma redução de custos operacionais na casa de 60-80%** em comparação com uma infraestrutura tradicional baseada em servidores. Além da economia, os benefícios incluem escalabilidade automática para lidar com qualquer volume de acessos, diminuição da carga de gerenciamento de infraestrutura e um aumento significativo na agilidade para desenvolver e lançar novas funcionalidades. Recomenda-se a adoção desta arquitetura *Serverless* como pilar tecnológico e a contínua exploração de outros serviços gerenciados da AWS para otimizar ainda mais os processos da empresa.
+A implementação destes três serviços na empresa **PharmaCloud Soluções tem como esperado uma grande redução dos custos de operação** em comparação com uma infraestrutura tradicional baseada em servidores. Além da economia, os benefícios incluem escalabilidade automática para lidar com qualquer volume de acessos, diminuição da carga de gerenciamento de infraestrutura e um aumento significativo na agilidade para desenvolver e lançar novas funcionalidades.
 
 ## Anexos
 
